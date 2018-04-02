@@ -1,3 +1,59 @@
 <resources>
-    <string name="app_name">RandomListMatch</string>
+
+    <string name="app_name">Random List Match</string>
+    <string name="match_2_lists">-Match 2 lists-</string>
+
+    <string name="button_begin">Begin</string>
+    <string name="button_populate_from_history">Populate from History</string>
+    <string name="button_reset">Reset</string>
+
+    <string name="action_history">History</string>
+    <string name="action_proceed">Proceed</string>
+    <string name="action_email">Share by Email</string>
+    <string name="action_clear_data">Clear Data</string>
+    <string name="action_accept">Confirm</string>
+
+    <string name="hint_match_title">Give it a title</string>
+    <string name="hint_list1_name">Name for list 1</string>
+    <string name="hint_list2_name">Name for list 2</string>
+    <string name="hint_enter_entry">Enter an entry</string>
+
+    <string name="date_time_format">%m/%d/%y - %H:%M</string>
+
+    <string name="empty_match_title">No Name</string>
+    <string name="empty_list1_name">List 1</string>
+    <string name="empty_list2_name">List 2</string>
+
+    <string name="share_send_data_by">Send this result by</string>
+    <string name="share_email_subject">Match result by Random List Match app</string>
+    <string name="share_title_name">Title:</string>
+    <string name="share_list1_name">The first list name:</string>
+    <string name="share_list2_name">The second list name:</string>
+
+    <string name="pick_automatically">Pick\nAutomatically</string>
+    <string name="pick_manually">Pick Each\nFrom Boxes</string>
+    <string name="manual_pick_header">Pick one for,</string>
+    <string name="picked_dialog_msg">\npicked\n</string>
+
+    <string name="ok">OK</string>
+    <string name="no">No</string>
+
+    <string name="proceed_error">The 2 lists must match the length</string>
+    <string name="delete_history">Delete all records?</string>
+
+    <string name="title_enter_list">Enter Lists</string>
+    <string name="title_match_list_option">Match List By..</string>
+    <string name="title_history">History</string>
+    <string name="title_populate_from_history">Populate from History</string>
+    <string name="title_confirm_populate">Populate Data from This</string>
+    <string name="title_result">Result</string>
+
+    <string name="rate_this_app">Rate This App</string>
+    <string name="rate_this_app_msg">If you liked this app, please give it a rating. Thank you!</string>
+    <string name="rate_this_app_positive">Rate Now</string>
+    <string name="rate_this_app_negative">No, Thanks</string>
+
+    <string name="anim_transition_duration">200</string>
+    <string name="list_name_match_option_max_length">22</string>
+
 </resources>
